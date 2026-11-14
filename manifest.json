@@ -1,0 +1,16 @@
+{
+    "latest":  "0.6.1",
+    "notes":  "Shellbreak 0.6.1 - coloured shell trails.\n- Every shell leaves a glowing trail in its player\u0027s colour (red for Red, blue for Blue), a little denser and bigger than before, so in All-shot you can tell at a glance whose shot is whose.",
+    "files":  [
+                  {
+                      "name":  "Shellbreak-game.zip",
+                      "size":  80985144,
+                      "sha256":  "6ac038275b9b6388db25458a73addf7ca4b2297ed92269bc85e9155a12208a8f",
+                      "url":  "https://raw.githubusercontent.com/rokheine91-bot/shellbreak-updates/main/files/0.6.1/Shellbreak-game.zip",
+                      "parts":  [
+                                    "https://raw.githubusercontent.com/rokheine91-bot/shellbreak-updates/main/files/0.6.1/Shellbreak-game.zip.part00"
+                                ]
+                  }
+              ],
+    "sig":  "gS5w1bLNfpvDQjNms6HBhAplm1tFODsh7xcAoE+6hxejb6qB6AHLqrqPWWgaY+qEhZ4j6Ho/z2sxG+oDYnvWCA=="
+}
